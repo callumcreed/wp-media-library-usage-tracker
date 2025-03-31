@@ -1,10 +1,10 @@
 /**
  * Plugin Name: Media Usage Tracker
- * Plugin URI: https://example.com/media-usage-tracker
+ * Plugin URI: https://callumcreed.com/media-usage-tracker
  * Description: Displays a list of all posts and pages where a media file is used or attached.
  * Version: 1.0
- * Author: Your Name
- * Author URI: https://example.com
+ * Author: Callum Creed
+ * Author URI: https://callumcreed.com
  * License: GPL2
  */
 
